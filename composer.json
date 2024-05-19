@@ -1,0 +1,17 @@
+{
+    "name": "artemis/shopify",
+    "description": "Package for Shopify",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Artemis\\Shopify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Artemis178"
+        }
+    ],
+    "require": {}
+}
