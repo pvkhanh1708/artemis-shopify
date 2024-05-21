@@ -3,18 +3,18 @@
     "description": "Package for Shopify",
     "type": "library",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Artemis\\Shopify\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Artemis178"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "php": ">=8.0"
     },
-    "minimum-stability": "dev"
+    "autoload": {
+        "psr-4": {
+            "Artemis\\Shopify\\": "src/"
+        }
+    }
 }
