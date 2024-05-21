@@ -13,5 +13,7 @@
             "name": "Artemis178"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0"
+    }
 }
